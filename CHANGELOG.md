@@ -5,6 +5,16 @@ Updated every Monday.
 
 ---
 
+## [v0.5.0] — 2026-03-16
+
+### 🚀 周更扩充：从 339 → 387 精选 Skills（+48）
+
+来源：ClaWHub trending + GitHub `openclaw-skill` topic scan
+
+新增覆盖：AI Agent 工具、金融/加密货币 API、安全运维、内容生产力、健康教育等 6 大类别。
+
+---
+
 ## [v0.4.0] — 2026-03-11
 
 ### 🚀 大规模扩充：从 164 → 339+ 精选 Skills

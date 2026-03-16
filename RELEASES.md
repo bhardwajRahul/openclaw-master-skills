@@ -2,6 +2,72 @@
 
 每次更新的详细发布说明。
 
+## v0.5.0 — 2026-03-16
+
+### 本周新增 48 个 Skills（总计 387）
+
+来源：ClaWHub trending + GitHub topic scan
+
+#### 🤖 AI & Agent 工具
+- `agentcreate` — AI 驱动的 OpenClaw Agent 创建器，支持飞书绑定、模型选择
+- `ai-model-router` — 智能模型路由，自动切换本地/云端模型
+- `ai-model-router-v2` — 模型路由 v2，增强版本地/云端切换
+- `ai-news-aggregator-sl` — AI & 科技新闻聚合器
+- `ai-task-hub` — AI 任务中心（图像分析、语音转文字、背景去除等）
+- `creative-toolkit` — 多模型图像生成（Nanobanana/Seedream/GPT）
+- `gemini-browser` — 通过浏览器自动化查询 Google Gemini
+- `html-slide-creator` — 零依赖 HTML 演示文稿生成器
+- `master-skills` — AI Agent 安全密钥管理
+- `media-generation` — 图像生成/编辑/视频/修复/扩图
+- `microsoft-skill-creator` — 微软技术 Agent Skill 创建器
+- `nidhov01-agent-browser` — Rust 高速无头浏览器自动化 CLI
+- `nidhov01-find-skills` — 智能 Skill 发现与安装助手
+- `nidhov01-github` — GitHub CLI 交互 Skill
+- `nidhov01-notion` — Notion API 页面/数据库管理
+- `nidhov01-proactive-agent` — 将 AI Agent 从被动变主动
+- `openai-codex-multi-oauth` — OpenAI Codex 多 OAuth 配置管理
+- `turing-pyramid` — Agent 优先级行动选择框架（10 需求时间衰减）
+
+#### 💰 金融 & 加密货币
+- `alchemy-openapi-skill` — Alchemy Prices API 操作
+- `basedagents` — BasedAgents.ai Agent 注册表交互
+- `chainbase-openapi-skill` — Chainbase Web3 钱包/代币查询
+- `citrea-claw-skill` — Citrea Bitcoin L2 生态监控
+- `coingecko-openapi-skill` — CoinGecko 市场数据 API
+- `eastmoney-financial-data-1-0-2` — 东方财富行情/财务数据查询
+- `eastmoney-financial-search-1-0-2` — 东方财富金融信源智能搜索
+- `moralis-openapi-skill` — Moralis EVM 钱包/代币查询
+- `ths-advanced-analysis` — 同花顺高级股票分析（分钟K线/板块/批量对比）
+- `upbit-openapi-skill` — Upbit 交易所公开 API
+- `wyckoff-a-share` — Wyckoff 大师级 A 股分析
+
+#### 🛡️ 安全 & 运维
+- `bankofbots` — AI Agent 信任评分系统
+- `runtime-sentinel` — OpenClaw Agent 运行时安全守卫
+- `sentinel-oleg` — 运行时安全层（输入/输出/日志拦截）
+- `database-admin` — 数据库管理（表设计/批量操作/查询优化）
+
+#### 📝 生产力 & 内容
+- `adclaw` — 广告创意搜索助手
+- `adwords` — 营销文案助手（100+标题公式/AIDA框架）
+- `changelog-curator` — 变更记录整理与 Changelog 生成
+- `clipboard-knowledge-capture` — 剪贴板知识沉淀到本地知识库
+- `jike-publisher` — 即刻社区自动发帖
+- `main-image-editor` — 截图+中文指令 PSD 批量编辑
+- `openclaw-todoist` — Todoist 任务管理（多 Agent 身份）
+- `product-dev-ops-package` — 产品研发运营协作体系（PM/架构/开发/运营）
+- `todo-tracker-safe` — 安全 TODO 跟踪器
+
+#### 🏥 健康 & 教育 & 其他
+- `haodf` — 好大夫智能找医生
+- `health-score-pro` — 综合健康管理（10 本畅销书共识原则）
+- `new-visitor-cold-start` — 新访客行为个性化转化
+- `sglang-diffusion-video` — 本地 SGLang-Diffusion 视频生成
+- `feishu-doc-collab` — 飞书实时 AI 协作文档
+- `hengheng-system-time` — 精确系统时间获取
+
+---
+
 ## v0.4.0 — 2026-03-11
 
 ### 🚀 大规模扩充 — 339+ Skills（新增 175 个）
