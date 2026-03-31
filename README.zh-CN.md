@@ -5,7 +5,7 @@
 <a href="https://myclaw.ai">
   <img src="https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=for-the-badge" alt="Powered by MyClaw.ai" />
 </a>
-<img src="https://img.shields.io/badge/Skills-339%2B-orange?style=for-the-badge" alt="339+ Skills" />
+<img src="https://img.shields.io/badge/Skills-560%2B-orange?style=for-the-badge" alt="560+ Skills" />
 <img src="https://img.shields.io/badge/Updated-Weekly-green?style=for-the-badge" alt="Weekly Updates" />
 
 **语言：**
@@ -34,7 +34,7 @@ git clone https://github.com/LeoYeAI/openclaw-master-skills.git
 cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 ```
 
-## 📦 技能索引 (339 skills)
+## 📦 技能索引 (560 skills)
 
 ### 🤖 AI & LLM Tools (34)
 

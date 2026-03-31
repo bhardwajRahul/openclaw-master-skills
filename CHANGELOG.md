@@ -65,3 +65,35 @@ Updated every Monday.
 ---
 
 *Next update: 2026-03-30*
+
+## [v0.7.0] — 2026-03-31
+
+### 🚀 大规模扩充：388 → 560+ 精选 Skills（+173）
+
+来源：ClawHub Archive (openclaw/skills) + GitHub 精选
+
+#### 新增亮点
+
+**steipete (OpenClaw 创始人) 新 Skills (13个)**
+- `bird` — Bluesky 社交协议 CLI
+- `coding-agent` — AI 编码 agent 最佳实践
+- `create-cli` — 创建命令行工具
+- `domain-dns-ops` — 域名 DNS 管理
+- `frontend-design` — 前端设计指南
+- `instruments-profiling` — Xcode Instruments 性能分析
+- `native-app-performance` — 原生 App 性能优化
+- `swift-concurrency-expert` — Swift 并发专家
+- `swiftui-liquid-glass` — SwiftUI Liquid Glass 效果
+- `swiftui-performance-audit` — SwiftUI 性能审计
+- `swiftui-view-refactor` — SwiftUI 视图重构
+- `video-transcript-downloader` — 视频字幕下载
+- `wacli` — WhatsApp CLI
+
+**alirezarezvani 企业级 Skills (159个)**
+覆盖：C-Suite 顾问（CEO/CFO/CTO/CMO/CISO等）、高级工程师（Frontend/Backend/ML/DevOps/Security）、产品管理、项目管理、UI/UX 设计、内容创作、SEO/SEM、社交媒体、数据分析、Terraform/K8s/Docker、Stripe 集成等
+
+**其他新增**
+- `para-second-brain` — PARA 方法论第二大脑系统
+
+---
+

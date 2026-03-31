@@ -413,3 +413,33 @@
 - `vercel-react-best-practices` — React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, r
 - `web-design-guidelines` — Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit 
 - `supabase-postgres-best-practices` — Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizin
+
+---
+
+## v0.7.0 — 2026-03-31
+
+### 🚀 Weekly Update — 560+ Skills (+173)
+
+Sources: ClawHub Archive (openclaw/skills repo) + GitHub curation
+
+#### New from steipete (OpenClaw creator) — 13 skills
+- `bird` — Bluesky social protocol CLI
+- `coding-agent` — AI coding agent best practices
+- `create-cli` — CLI tool creation guide
+- `domain-dns-ops` — Domain DNS operations
+- `frontend-design` — Frontend design guidelines
+- `instruments-profiling` — Xcode Instruments profiling
+- `native-app-performance` — Native app performance optimization
+- `swift-concurrency-expert` — Swift concurrency patterns
+- `swiftui-liquid-glass` — SwiftUI Liquid Glass effects
+- `swiftui-performance-audit` — SwiftUI performance auditing
+- `swiftui-view-refactor` — SwiftUI view refactoring
+- `video-transcript-downloader` — Video transcript download
+- `wacli` — WhatsApp CLI
+
+#### New from alirezarezvani — 159 enterprise-grade skills
+Categories: C-Suite advisors (CEO/CFO/CTO/CMO/CISO), Senior engineers (Frontend/Backend/ML/DevOps/Security), Product management, Project management, UI/UX design, Content creation, SEO/SEM, Social media, Data analytics, Terraform/K8s/Docker, Stripe integration, and more.
+
+#### Other additions
+- `para-second-brain` — PARA method second brain system
+
