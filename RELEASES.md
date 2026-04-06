@@ -2,6 +2,16 @@
 
 每次更新的详细发布说明。
 
+## v0.8.0 — 2026-04-06
+
+### 本周新增 0 个 Skills（总计 560）
+
+本周扫描来源：GitHub `openclaw-skill` topic（30+ 个仓库）+ skills.sh top 200
+
+扫描结果：候选 `audit-website` 已于 v0.6.0 收录，无净新增。README skill index 已全量刷新，确认当前收录 **560 个精选 Skills**。
+
+---
+
 ## v0.6.0 — 2026-03-23
 
 ### 本周新增 1 个 Skill（总计 388）
