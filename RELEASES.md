@@ -2,6 +2,18 @@
 
 每次更新的详细发布说明。
 
+## v0.9.0 — 2026-04-13
+
+### 本周新增 0 个 Skills（总计 560）
+
+本周扫描来源：GitHub `openclaw-skill` topic（30+ 个仓库）+ skills.sh top 200 + ClaWHub CLI
+
+扫描结果：所有候选仓库均已收录或不含有效 SKILL.md。无净新增。当前收录 **560 个精选 Skills**。
+
+清理：移除了 `pending/audit-website`（已于 v0.6.0 收录到 skills/ 目录）。
+
+---
+
 ## v0.8.0 — 2026-04-06
 
 ### 本周新增 0 个 Skills（总计 560）
